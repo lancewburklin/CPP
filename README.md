@@ -1,1 +1,1 @@
-Repository for learning C++
+Repository for learning C++. Files are exploring concepts related to C++.
