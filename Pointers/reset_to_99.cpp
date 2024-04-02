@@ -11,7 +11,7 @@ void reset_to_99(int* value) {
 	*value = 99;
 }
 
-int main() {
+int test_reset_to_99() {
 	int x = 3;
 	std::cout << x << std::endl;
 
