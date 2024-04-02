@@ -19,7 +19,7 @@ void print_rev(char* str) {
 	putchar('\n');
 }
 
-int main() {
+int test_print_rev() {
 	char str[] = "This string is not a palindrome. That would be confusing for this test.";
 	print_rev(str);
 	return 0;
