@@ -20,7 +20,7 @@ void puts_half(char* str) {
 	putchar('\n');
 }
 
-int main() {
+int test_puts_half() {
 	char str[] = "0123456789";
 	puts_half(str);
 	char str2[] = "1234";
