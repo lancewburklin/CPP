@@ -19,6 +19,7 @@ void print_numbers(const char* separator, const unsigned int n, ...) {
 			std::cout << separator;
 		}
 	}
+	va_end(args);
 	std::cout << std::endl;
 }
 
