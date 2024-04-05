@@ -4,7 +4,8 @@
 /*
 	sum_them_all: Sums inputs
 	Parameters:
-		n: Numbers to sum
+		n: Numbers of number supplied
+		...: List of ints
 	Returns: The result
 */
 
